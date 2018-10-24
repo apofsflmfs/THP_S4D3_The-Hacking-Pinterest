@@ -1,4 +1,4 @@
-# Création d'un blog
+# The Hacking Pinterest
 
 > Programming w/ @Clément Baldy & @LeaLp
 
